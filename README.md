@@ -1,6 +1,6 @@
 # MappingSanDiegoBicycleRisk
-GIS project exploring bicycle collision patterns, infrastructure gaps, and risk factors across San Diego County.
 
+Project with Devon, Sebastian, Isaac and Amy
 
 For our project, we will look at the relationship between bike paths in San Diego County compared to collisions. By combining infrastructure data of biking paths alongside collision incident data, this project is looking to better understand where and why bicycle related incidents occur and to identify opportunities to improve cyclist safety.
 Beyond safety concerns, the project highlights the importance of cycling as a transportation option by demonstrating the destinations accessible through San Diego’s bicycle network. This broader context helps illustrate the value of investing in safe, connected and accessible cycling paths.
