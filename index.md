@@ -17,6 +17,22 @@ Our group will construct a multi-factor spatial analysis of these bicycle collis
 
 ---
 
+<div class="cards">
+
+<a href="/Sebastian/index.html">
+<img src="/assets/images/page1.png">
+</a>
+
+<a href="/Devon/index.html">
+<img src="/assets/images/page2.png">
+</a>
+
+<a href="/Isaac/index.html">
+<img src="/assets/images/page3.png">
+</a>
+
+</div>
+
 ### Map 1 — [Title of Map](./Sebastian/index.html)
 **By: Sebastian**
 
