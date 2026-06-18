@@ -1,5 +1,5 @@
 title: Mapping San Diego Bicycle Risk
 description: An interactive web mapping project analyzing bicycle safety across San Diego County.
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
 baseurl: "/MappingSanDiegoBicycleRisk"
 url: "https://agaffney-hub.github.io"
