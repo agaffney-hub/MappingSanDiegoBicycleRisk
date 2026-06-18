@@ -3,7 +3,7 @@ layout: default
 title: Mapping San Diego Bicycle Risk
 ---
 
-# 🚲 Mapping San Diego Bicycle Risk
+# Mapping San Diego Bicycle Risk
 
 > An interactive web mapping project exploring where, when, and why cyclists face the greatest risk across San Diego County.
 
@@ -11,7 +11,7 @@ Built by a team of four using **ArcGIS** and **Leaflet**, this project combines 
 
 ---
 
-## 🗺️ Explore the Maps
+## Explore the Maps
 
 Our group will construct a multi-factor spatial analysis of these bicycle collision patterns and explore four different dimensions of risk: infrastructure and collision hotspots, the role of alcohol involvement during incidents, driver aggression and weather conditions. Each factor will be examined through separate maps, allowing us to visualize how different environmental, behavioral and infrastructure related conditions contribute to bicycle safety throughout San Diego County.
 
@@ -45,7 +45,7 @@ Map: Alcohol Use in Bicycle Incidents - Mapping Alcohol involved incidents along
 
 ---
 
-## 📊 Data Sources
+## Data Sources
 
 - [SWITRS — California Statewide Integrated Traffic Records System](https://iswitrs.chp.ca.gov)
 - [City of San Diego Open Data Portal](https://data.sandiego.gov)
@@ -53,7 +53,7 @@ Map: Alcohol Use in Bicycle Incidents - Mapping Alcohol involved incidents along
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -63,7 +63,7 @@ Map: Alcohol Use in Bicycle Incidents - Mapping Alcohol involved incidents along
 
 ---
 
-## 👥 Team
+## Team
 
 | Name | Focus Area |
 |------|-----------|
