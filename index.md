@@ -77,6 +77,7 @@ Map alcohol-related bicycle incidents by location and timing patterns.</p>
 | Tool | Purpose |
 |------|---------|
 | Leaflet | Interactive map rendering and layer control |
+| Carto | Interactive map rendering, file processing and layer control |
 | Mapbox | Basemap tiles and custom styling |
 | GitHub Pages | Hosting and deployment |
 
