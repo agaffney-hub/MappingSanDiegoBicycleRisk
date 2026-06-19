@@ -3,6 +3,27 @@ layout: default
 title: Mapping San Diego Bicycle Risk
 ---
 
+<style>
+.cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+}
+
+.cards a {
+  display: block;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  text-decoration: none;
+  color: inherit;
+}
+
+.cards img {
+  width: 100%;
+  height: auto;
+}
+</style>
+
 # Mapping San Diego Bicycle Risk
 
 > An interactive web mapping project exploring where, when, and why cyclists face the greatest risk across San Diego County.
