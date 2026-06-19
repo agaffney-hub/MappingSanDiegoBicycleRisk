@@ -14,28 +14,28 @@ Built by a team of four using **ArcGIS** and **Leaflet**, this project combines 
 <div class="cards">
 
 <a href="./Sebastian/index.html">
-<img src="/assets/images/page1.png">
+<img src="./assets/images/page1.png">
 <h3>Map 1 — Bike Protection Gap</h3>
 <p><b>By: Sebastian</b><br>
 Overlay collision severity hotspots against bikeways and bike infrastructure to examine whether severe cyclist injuries occur in areas lacking protection.</p>
 </a>
 
 <a href="./Devon/index.html">
-<img src="/assets/images/page2.png">
+<img src="./assets/images/page2.png">
 <h3>Map 2 — Weather Conditions</h3>
 <p><b>By: Devon</b><br>
 Explore how weather conditions relate to bicycle collisions throughout San Diego County.</p>
 </a>
 
 <a href="./Isaac/index.html">
-<img src="/assets/images/page3.png">
+<img src="./assets/images/page3.png">
 <h3>Map 3 — Driver Behavior</h3>
 <p><b>By: Isaac</b><br>
 Analyze aggressive driving patterns and relationships with bicycle safety.</p>
 </a>
 
 <a href="./Amy/index.html">
-<img src="/assets/images/Amy.png">
+<img src="./assets/images/Amy.png">
 <h3>Map 4 — Alcohol Involvement</h3>
 <p><b>By: Amy</b><br>
 Map alcohol-related bicycle incidents by location and timing patterns.</p>
