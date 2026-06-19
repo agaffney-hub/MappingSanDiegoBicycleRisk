@@ -35,7 +35,7 @@ Analyze aggressive driving patterns and relationships with bicycle safety.</p>
 </a>
 
 <a href="./Amy/index.html">
-<img src="/assets/images/page4.png">
+<img src="/assets/images/Amy.png">
 <h3>Map 4 — Alcohol Involvement</h3>
 <p><b>By: Amy</b><br>
 Map alcohol-related bicycle incidents by location and timing patterns.</p>
