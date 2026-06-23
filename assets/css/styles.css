@@ -6,7 +6,7 @@
 
 .map {
   width: 100%;
-  height: min(75vh, 800px);
+  height: 80vh;
   border: 0;
   border-radius: 10px;
 }
