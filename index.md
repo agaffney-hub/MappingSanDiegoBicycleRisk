@@ -49,7 +49,7 @@ Built by a team of four using **ArcGIS** and **Leaflet**, this project combines 
 Overlay collision severity hotspots against bikeways and bike infrastructure to examine whether severe cyclist injuries occur in areas lacking protection.</p>
 </a>
 
-<a href="./Devon/index.html">
+<a href="./Devon/index.md">
 <img src="./assets/images/Devon.png">
 <p class="credit">Image credits to https://www.pickpik.com/fuchs-funny-tongue-animal-world-wild-animal-wildlife-photography-114225</p>
 <h3>Map 2 — Weather Conditions</h3>
