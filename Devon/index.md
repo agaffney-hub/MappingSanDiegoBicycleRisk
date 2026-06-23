@@ -3,34 +3,6 @@ layout: default
 title: Map 2 — Weather Conditions
 ---
 
-<style>
-.iframe {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
-}
-
-.iframe a {
-  display: block;
-  text-decoration: none;
-  color: inherit;
-  border: 1px solid #ddd;
-  padding: 1rem;
-}
-
-.iframe img {
-  width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
-  display: block;
-}
-
-.iframe p.credit {
-  font-size: 0.75rem;
-  color: #666;
-}
-</style>
-
 # Map 2 — Weather Conditions
 ### By Devon
 
@@ -40,7 +12,18 @@ Built by a team of four using **ArcGIS** and **Leaflet**, this project combines 
 
 ---
 
-<div class="iframe">
+<!-- Comment out below if you have more than one map to display -->
 
-<iframe src="https://sdsugeo.maps.arcgis.com/apps/dashboards/3329512e13ec4e16a0c4d38dbb4904ff" width="200%" height="600px"
-frameborder="0"></iframe>
+<div class="map-container">
+  <<iframe class="map" src="https://sdsugeo.maps.arcgis.com/apps/dashboards/3329512e13ec4e16a0c4d38dbb4904ff"></iframe>
+</div>
+
+<!-- Comment back in below if you have more than one map to display -->
+
+<!-- <div class="map-grid">
+
+  <iframe class="map" src="YOUR URL HERE"></iframe>
+  <iframe class="map" src="YOUR URL HERE"></iframe>
+  <iframe class="map" src="YOUR URL HERE"></iframe>
+
+</div> -->
