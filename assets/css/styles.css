@@ -1,9 +1,14 @@
 /* SINGLE MAP */
+.map-container {
+  width: 100%;
+  margin: 1rem 0;
+}
+
 .map {
-  width: 200%;
-  height: min(80vh, 800px);
+  width: 100%;
+  height: min(75vh, 800px);
   border: 0;
-  border-radius: 8px;
+  border-radius: 10px;
 }
 
 /* MULTI-MAP GRID */
