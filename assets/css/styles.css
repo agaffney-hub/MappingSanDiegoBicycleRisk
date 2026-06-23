@@ -1,0 +1,19 @@
+/* SINGLE MAP */
+.map {
+  width: 100%;
+  height: min(80vh, 800px);
+  border: 0;
+  border-radius: 8px;
+}
+
+/* MULTI-MAP GRID */
+.map-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
+}
+
+/* smaller maps inside grid */
+.map-grid .map {
+  height: 400px;
+}
