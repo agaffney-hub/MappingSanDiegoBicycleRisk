@@ -1,13 +1,3 @@
-
-
-/* FULL PAGE CONTAINER */
-.page {
-  width: 100%;
-  max-width: none;
-  margin: 0;
-  padding: 0;
-}
-
 /* SINGLE MAP */
 .map-container {
   width: 100%;
