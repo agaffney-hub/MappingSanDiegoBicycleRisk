@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Map 2 — Weather Conditions
+title: Devon
 ---
 
 # Map 2 — Weather Conditions
@@ -15,7 +15,7 @@ Built by a team of four using **ArcGIS** and **Leaflet**, this project combines 
 <!-- Comment out below if you have more than one map to display -->
 
 <div class="map-container">
-  <<iframe class="map" src="https://sdsugeo.maps.arcgis.com/apps/dashboards/3329512e13ec4e16a0c4d38dbb4904ff"></iframe>
+  <iframe class="map" src="https://sdsugeo.maps.arcgis.com/apps/dashboards/3329512e13ec4e16a0c4d38dbb4904ff"></iframe>
 </div>
 
 <!-- Comment back in below if you have more than one map to display -->
