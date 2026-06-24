@@ -1,3 +1,9 @@
+body {
+  background: yellow !important;
+  color: black !important;
+}
+
+
 html, body {
   margin: 0;
   padding: 0;
