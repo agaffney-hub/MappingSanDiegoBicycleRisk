@@ -1,20 +1,7 @@
-body {
-  background: yellow !important;
-  color: black !important;
-}
 
-
-html, body {
-  margin: 0;
-  padding: 0;
-}
-
-/* FULL PAGE CONTAINER */
-.page {
-  width: 100%;
-  max-width: none;
-  margin: 0;
-  padding: 0;
+/* Override Cayman theme width */
+.main-content {
+  max-width: 1400px !important;
 }
 
 /* SINGLE MAP */
