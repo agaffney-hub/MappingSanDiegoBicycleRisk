@@ -3,19 +3,19 @@ layout: default
 title: Devon
 ---
 
-# Map 2 — Weather Conditions
+# Title your map here
 ### By Devon
 
-> An interactive web mapping project exploring where, when, and why cyclists face the greatest risk across San Diego County.
+> An arrow makes a noteworthy sentence stand out, if you want it.
 
-Built by a team of four using **ArcGIS** and **Leaflet**, this project combines collision records and infrastructure data to visualize bicycle safety across the county.
+Your long description can go here. You can bold by adding **double asterisks around your text**.
 
 ---
 
 <!-- Comment out below if you have more than one map to display -->
 
 <div class="map-container">
-  <iframe class="map" src="https://sdsugeo.maps.arcgis.com/apps/dashboards/3329512e13ec4e16a0c4d38dbb4904ff"></iframe>
+  <iframe class="map" src="YOUR URL HERE"></iframe>
 </div>
 
 <!-- Comment back in below if you have more than one map to display -->
