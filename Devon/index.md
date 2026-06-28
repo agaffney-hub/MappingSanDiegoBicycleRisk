@@ -15,7 +15,7 @@ Your long description can go here. You can bold by adding **double asterisks aro
 <!-- Comment out below if you have more than one map to display -->
 
 <div class="map-container">
-  <iframe class="map" src="(https://www.arcgis.com/apps/dashboards/a7194cee68c1412682bd9df5febbb2cb)"></iframe>
+  <iframe class="map" src="https://www.arcgis.com/apps/dashboards/a7194cee68c1412682bd9df5febbb2cb"></iframe>
 </div>
 
 <!-- Comment back in below if you have more than one map to display -->
