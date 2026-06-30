@@ -3,12 +3,10 @@ layout: default
 title: Devon
 ---
 
-# Title your map here
+# Bike Collisions v. Weather
 ### By Devon
 
-> An arrow makes a noteworthy sentence stand out, if you want it.
-
-Your long description can go here. You can bold by adding **double asterisks around your text**.
+The bike accidents and weather dashboard shows designated biking areas in San Diego vs bike collisions with optional filters for weather and collision severity. The collision spots are represented by colored circles and diamonds depending on the severity of the collision. For collisions that were classified as severe or fatal, the points are represented by red shaded diamonds. For collisions that were classified as injury - visible, injury - complaint of pain, property damage only, points are represented by green circles. The bike routes are given a different color on this dashboard based on the class given in the original dataset. The filters are defaulted to include all observations. The bar chart at the bottom breaks down a count of collisions based on the classification of weather and the severity of the collision. This bar chart is a great place to start with analyzing the map!
 
 ---
 
