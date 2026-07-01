@@ -8,7 +8,7 @@ title: Amy
 
 > Since 2014, there have been over 600 recorded bicycle collisions where alcohol was a factor.
 
-While there were only 15 recorded accidents that resulted in fatalities, **double asterisks around your text**.
+While there were only 15 recorded accidents that resulted in fatalities, **14 of the fatalities were the bicyclists**. Similarly, out of the 669 recorded bicycle collisions involving alcohol, **637 of those collisions had bicyclists injured**. While bike acces paths have been beneficial for including bicyclists and their safety, a 10-year span still shows that there is room for improvement on prioritizing safety and bike ingrastructure since there were almost 100 collisions that were not on bikpaths. In this chart alone **15% of bicycle collisions involving alcohol happen in places where bicycle infrastructure is lacking.**
 
 ---
 
