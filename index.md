@@ -43,7 +43,7 @@ Built by a team of four using **ArcGIS** and **Leaflet**, this project combines 
 
 <a href="./Sebastian/">
 <img src="./assets/images/Sebastian.png">
-<p class="credit">Image credits to https://www.flickr.com/photos/geckoam/2723280096</p>
+<p class="credit">Image credits to https://www.pexels.com/photo/person-riding-on-bicycle-2972948/</p>
 <h3>Map 1 — Bike Protection Gap</h3>
 <p><b>By: Sebastian</b><br>
 Overlay collision severity hotspots against bikeways and bike infrastructure to examine whether severe cyclist injuries occur in areas lacking protection.</p>
