@@ -14,7 +14,7 @@ While there were only 15 recorded accidents that resulted in fatalities, **14 of
 
 <!-- Comment out below if you have more than one map to display -->
 <div class="map-container">
-  <iframe width="640px" height="360px" src="https://clausa.app.carto.com/map/f7d29f36-31c0-4e05-9291-970726b576ed">
+  <iframe class="map" src="https://clausa.app.carto.com/map/f7d29f36-31c0-4e05-9291-970726b576ed">
   </iframe>
 </div>
 <!-- Comment back in below if you have more than one map to display -->
