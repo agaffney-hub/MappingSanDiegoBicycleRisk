@@ -45,7 +45,7 @@ This project uses spatial analysis to better understand the factors that contrib
 
 ---
 
-Browse each student’s map below to explore a different dimension of bicycle safety.
+Browse each team member's map below to explore a different dimension of bicycle safety.
 
 <div class="cards">
 
@@ -55,6 +55,8 @@ Browse each student’s map below to explore a different dimension of bicycle sa
 <h3>Map 1 — Bike Protection Gap</h3>
 <p><b>By: Sebastian</b><br>
 Explore how collision severity and bicycle infrastructure overlap to identify areas where cyclist safety may be most at risk.</p>
+<p><b>Tools Used:</b><br>
+ArcGIS</p>
 </a>
 
 <a href="./Devon/">
@@ -62,6 +64,8 @@ Explore how collision severity and bicycle infrastructure overlap to identify ar
 <h3>Map 2 — Weather Conditions</h3>
 <p><b>By: Devon</b><br>
 Examine how weather conditions and collision severity relate to bicycle crashes across San Diego County.</p>
+<p><b>Tools Used:</b><br>
+ArcGIS</p>
 </a>
 
 <a href="./Isaac/">
@@ -70,6 +74,8 @@ Examine how weather conditions and collision severity relate to bicycle crashes 
 <h3>Map 3 — Driver Behavior</h3>
 <p><b>By: Isaac</b><br>
 Analyze aggressive driving patterns and relationships with bicycle safety.</p>
+<p><b>Tools Used:</b><br>
+ArcGIS</p>
 </a>
 
 <a href="./Amy/index.html">
@@ -77,6 +83,8 @@ Analyze aggressive driving patterns and relationships with bicycle safety.</p>
 <h3>Map 4 — Alcohol Involvement</h3>
 <p><b>By: Amy</b><br>
 Highlight the role of alcohol in bicycle collisions and show where injury risk is concentrated near areas with limited infrastructure.</p>
+<p><b>Tools Used:</b><br>
+CARTO</p>
 </a>
 
 </div>
