@@ -35,9 +35,17 @@ title: Mapping San Diego Bicycle Risk
 
 > An interactive web mapping project exploring where, when, and why cyclists face the greatest risk across San Diego County.
 
-Built by a team of four using **ArcGIS** and **Leaflet**, this project combines collision records and infrastructure data to visualize bicycle safety across the county.
+Built by a team of four using **ArcGIS** and **CARTO**, this project combines collision records and infrastructure data to visualize bicycle safety across San Diego County.
+
+This project examines how infrastructure, weather, driver behavior, and alcohol involvement shape bicycle risk across the region. By mapping these patterns, the team highlights areas where cyclists may face the greatest danger and where safety improvements may be most needed.
+
+## Project Goals
+
+This project uses spatial analysis to better understand the factors that contribute to bicycle crashes and injuries. The goal is to identify patterns that can inform safer cycling conditions and more effective transportation planning.
 
 ---
+
+Browse each student’s map below to explore a different dimension of bicycle safety.
 
 <div class="cards">
 
@@ -46,39 +54,38 @@ Built by a team of four using **ArcGIS** and **Leaflet**, this project combines 
 <p class="credit">Image credits to https://www.pexels.com/photo/person-riding-on-bicycle-2972948/</p>
 <h3>Map 1 — Bike Protection Gap</h3>
 <p><b>By: Sebastian</b><br>
-Overlay collision severity hotspots against bikeways and bike infrastructure to examine whether severe cyclist injuries occur in areas lacking protection.</p>
+Explore how collision severity and bicycle infrastructure overlap to identify areas where cyclist safety may be most at risk.</p>
 </a>
 
 <a href="./Devon/">
 <img src="./assets/images/Devon.png">
-<p class="credit">Image credits to https://www.pickpik.com/fuchs-funny-tongue-animal-world-wild-animal-wildlife-photography-114225</p>
 <h3>Map 2 — Weather Conditions</h3>
 <p><b>By: Devon</b><br>
-Explore how weather conditions relate to bicycle collisions throughout San Diego County.</p>
+Examine how weather conditions and collision severity relate to bicycle crashes across San Diego County.</p>
 </a>
 
 <a href="./Isaac/">
 <img src="./assets/images/Isaac.png">
-<p class="credit">Image credits to https://www.needpix.com/photo/download/1867178/dog-funny-pet-animal-cute-puppy-happy-adorable-young#google_vignette</p>
+<p class="credit">Image credits: <a href="https://www.pickpik.com/bike-blur-cars-city-cyclist-road-147367?__cf_chl_f_tk=oYMEpHTsNqb8dq15c2MmFZFusffvltTm3Xp_y.Ky3WE-1782955070-1.0.1.1-C2f7r9wY_zJpufrysAOyanHHPpuci.Ks_.vd4qRiPck">here</a></p>
 <h3>Map 3 — Driver Behavior</h3>
 <p><b>By: Isaac</b><br>
 Analyze aggressive driving patterns and relationships with bicycle safety.</p>
 </a>
 
-<a href="./Amy/">
+<a href="./Amy/index.html">
 <img src="./assets/images/Amy.png">
 <h3>Map 4 — Alcohol Involvement</h3>
 <p><b>By: Amy</b><br>
-Map alcohol-related bicycle incidents by location and timing patterns.</p>
+Highlight the role of alcohol in bicycle collisions and show where injury risk is concentrated near areas with limited infrastructure.</p>
 </a>
 
 </div>
 
 ## Data Sources
 
-- [SWITRS — California Statewide Integrated Traffic Records System](https://iswitrs.chp.ca.gov)
-- [City of San Diego Open Data Portal](https://data.sandiego.gov)
-- [SANDAG Regional GIS Data](https://sandag.org)
+- [SWITRS — California Statewide Integrated Traffic Records System](https://iswitrs.chp.ca.gov): crash records used to identify collision locations, severity, and patterns.
+- [City of San Diego Open Data Portal](https://data.sandiego.gov): local street and infrastructure data used to compare crash locations with existing bike facilities.
+- [SANDAG Regional GIS Data](https://sandag.org): regional transportation and planning data used to contextualize the maps within the broader San Diego area.
 
 ---
 
@@ -86,10 +93,9 @@ Map alcohol-related bicycle incidents by location and timing patterns.</p>
 
 | Tool | Purpose |
 |------|---------|
-| Leaflet | Interactive map rendering and layer control |
-| Carto | Interactive map rendering, file processing and layer control |
-| Mapbox | Basemap tiles and custom styling |
-| GitHub Pages | Hosting and deployment |
+| ArcGIS | Used to build interactive dashboards and visualize collision and infrastructure patterns |
+| CARTO | Used for web-based map visualization and spatial storytelling |
+| GitHub Pages | Used to host and publish the project website |
 
 ---
 
@@ -97,10 +103,10 @@ Map alcohol-related bicycle incidents by location and timing patterns.</p>
 
 | Name | Focus Area |
 |------|-----------|
-| Sebastian | Collision/Infrastructure hotspots |
-| Devon | Weather/Public Safety Risk |
-| Isaac | Events/Angry Driver risk |
-| Amy | Alcohol Risk |
+| Sebastian | Infrastructure and collision hotspot analysis |
+| Devon | Weather conditions and crash severity patterns |
+| Isaac | Driver behavior and road safety relationships |
+| Amy | Alcohol-related collisions and injury risk |
 
 ---
 
