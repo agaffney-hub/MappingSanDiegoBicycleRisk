@@ -119,9 +119,9 @@ CARTO</p>
 
 ## Data Sources
 
-- [SWITRS — California Statewide Integrated Traffic Records System](https://iswitrs.chp.ca.gov): crash records used to identify collision locations, severity, and patterns.
-- [City of San Diego Open Data Portal](https://data.sandiego.gov): local street and infrastructure data used to compare crash locations with existing bike facilities.
-- [SANDAG Regional GIS Data](https://sandag.org): regional transportation and planning data used to contextualize the maps within the broader San Diego area.
+- [SWITRS — California Statewide Integrated Traffic Records System](https://opendata.sandag.org/Transportation/SWITRS-Collisions-Records-2014-2023-/uzct-sb5t/about_data): crash records used to identify collision locations, severity, and patterns.
+- [City of San Diego Open Data Portal](https://data.sandiego.gov/datasets/traffic-collision-details/#getData): local street and infrastructure data used to compare crash locations with existing bike facilities.
+- [SANDAG Regional GIS Data](https://opendata.sandag.org/Geographic-Information-Systems/iBikeMap/fzya-dg8s): regional transportation and planning data used to contextualize the maps within the broader San Diego area.
 
 ---
 
