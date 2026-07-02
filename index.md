@@ -77,7 +77,7 @@ Browse each team member's map below to explore a different dimension of bicycle 
 
 <a href="./Sebastian/">
 <img src="./assets/images/Sebastian.png">
-<p class="credit"><a class="credit-link" href="https://www.pexels.com/photo/person-riding-on-bicycle-2972948/">Image credit</a></p>
+<p class="credit"><span class="credit-link">Image credit</span></p>
 <h3>Map 1 — Bike Protection Gap</h3>
 <p><b>By: Sebastian</b><br>
 Explore how collision severity and bicycle infrastructure overlap to identify areas where cyclist safety may be most at risk.</p>
@@ -87,7 +87,7 @@ ArcGIS</p>
 
 <a href="./Devon/">
 <img src="./assets/images/Devon.png">
-<p class="credit"></p>
+<p class="credit">&nbsp;</p>
 <h3>Map 2 — Weather Conditions</h3>
 <p><b>By: Devon</b><br>
 Examine how weather conditions and collision severity relate to bicycle crashes across San Diego County.</p>
@@ -97,7 +97,7 @@ ArcGIS</p>
 
 <a href="./Isaac/">
 <img src="./assets/images/Isaac.png">
-<p class="credit"><a class="credit-link" href="https://www.pickpik.com/bike-blur-cars-city-cyclist-road-147367?__cf_chl_f_tk=oYMEpHTsNqb8dq15c2MmFZFusffvltTm3Xp_y.Ky3WE-1782955070-1.0.1.1-C2f7r9wY_zJpufrysAOyanHHPpuci.Ks_.vd4qRiPck">Image credit</a></p>
+<p class="credit"><span class="credit-link">Image credit</span></p>
 <h3>Map 3 — Driver Behavior</h3>
 <p><b>By: Isaac</b><br>
 Analyze aggressive driving patterns and relationships with bicycle safety.</p>
@@ -107,7 +107,7 @@ ArcGIS</p>
 
 <a href="./Amy/index.html">
 <img src="./assets/images/Amy.png">
-<p class="credit"></p>
+<p class="credit">&nbsp;</p>
 <h3>Map 4 — Alcohol Involvement</h3>
 <p><b>By: Amy</b><br>
 Highlight the role of alcohol in bicycle collisions and show where injury risk is concentrated near areas with limited infrastructure.</p>
