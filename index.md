@@ -125,25 +125,5 @@ CARTO</p>
 
 ---
 
-## Tools Used
-
-| Tool | Purpose |
-|------|---------|
-| ArcGIS | Used to build interactive dashboards and visualize collision and infrastructure patterns |
-| CARTO | Used for web-based map visualization and spatial storytelling |
-| GitHub Pages | Used to host and publish the project website |
-
----
-
-## Team
-
-| Name | Focus Area |
-|------|-----------|
-| Sebastian | Infrastructure and collision hotspot analysis |
-| Devon | Weather conditions and crash severity patterns |
-| Isaac | Driver behavior and road safety relationships |
-| Amy | Alcohol-related collisions and injury risk |
-
----
 
 *GEOG 583 · San Diego State University · Summer 2026*
