@@ -74,7 +74,7 @@ ArcGIS</p>
 
 <a href="./Isaac/">
 <img src="./assets/images/Isaac.png">
-<p class="credit">Image credits: <a href="https://www.pickpik.com/bike-blur-cars-city-cyclist-road-147367?__cf_chl_f_tk=oYMEpHTsNqb8dq15c2MmFZFusffvltTm3Xp_y.Ky3WE-1782955070-1.0.1.1-C2f7r9wY_zJpufrysAOyanHHPpuci.Ks_.vd4qRiPck">here</a></p>
+<p class="credit">Image credits to https://www.pickpik.com/bike-blur-cars-city-cyclist-road-147367?__cf_chl_f_tk=oYMEpHTsNqb8dq15c2MmFZFusffvltTm3Xp_y.Ky3WE-1782955070-1.0.1.1-C2f7r9wY_zJpufrysAOyanHHPpuci.Ks_.vd4qRiPck</p>
 <h3>Map 3 — Driver Behavior</h3>
 <p><b>By: Isaac</b><br>
 Analyze aggressive driving patterns and relationships with bicycle safety.</p>
