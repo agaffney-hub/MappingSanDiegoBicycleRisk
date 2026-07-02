@@ -8,10 +8,13 @@ title: Mapping San Diego Bicycle Risk
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 2rem;
+  align-items: stretch;
 }
 
 .cards a {
-  display: block;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
   text-decoration: none;
   color: inherit;
   border: 1px solid #ddd;
@@ -61,6 +64,7 @@ ArcGIS</p>
 
 <a href="./Devon/">
 <img src="./assets/images/Devon.png">
+<p class="credit"> /** blank for formatting **/</p>
 <h3>Map 2 — Weather Conditions</h3>
 <p><b>By: Devon</b><br>
 Examine how weather conditions and collision severity relate to bicycle crashes across San Diego County.</p>
@@ -80,6 +84,7 @@ ArcGIS</p>
 
 <a href="./Amy/index.html">
 <img src="./assets/images/Amy.png">
+<p class="credit"> /** blank for formatting **/</p>
 <h3>Map 4 — Alcohol Involvement</h3>
 <p><b>By: Amy</b><br>
 Highlight the role of alcohol in bicycle collisions and show where injury risk is concentrated near areas with limited infrastructure.</p>
